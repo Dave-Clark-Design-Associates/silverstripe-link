@@ -15,9 +15,8 @@
   ],
   "homepage": "https://gorriecoe.github.io/silverstripe-link/en/",
   "require": {
-    "silverstripe/recipe-cms": "5.0.*",
     "silverstripe/framework": "^5",
-    "unclecheese/display-logic": "^2",
+    "unclecheese/silverstripe-display-logic": "^3",
     "giggsey/libphonenumber-for-php": "^8.0"
   },
   "extra": {
